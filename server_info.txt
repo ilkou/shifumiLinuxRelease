@@ -1,0 +1,4 @@
+* Server is currently running
+* IP address: 15.236.197.18
+* This IP is available for public connection worldwide.
+* Enjoy :)
